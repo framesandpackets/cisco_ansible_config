@@ -1,0 +1,13 @@
+### Ansible Hosts File ###
+
+[ROUTERS]
+192.168.0.10
+
+[ROUTERS:vars]
+ansible_user=ansible
+ansible_ssh_pass=ansible
+
+
+
+
+
